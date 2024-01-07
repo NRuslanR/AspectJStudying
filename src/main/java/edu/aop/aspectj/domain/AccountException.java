@@ -1,4 +1,4 @@
-package edu.aop.aspectj;
+package edu.aop.aspectj.domain;
 
 public class AccountException extends RuntimeException
 {
